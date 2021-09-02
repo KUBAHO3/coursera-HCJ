@@ -3,7 +3,10 @@ div{
     float: left;
     margin-left: 20px;
 }
-.firstp{
+#Chicken{
+    border-style: solid;
+    border: black; 
+  #meat{
     border-style: solid;
     border: black;
 }
